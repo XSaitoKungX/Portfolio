@@ -52,7 +52,7 @@ Dieses Portfolio wurde entwickelt, um meine Fähigkeiten und Projekte als Webent
 
 ## Credits
 
-- Dieses Portfolio wurde erstellt von [Dein Name](Dein GitHub-Profil-URL).
+- Dieses Portfolio wurde erstellt von [XSaitoKungX](https://github.com/XSaitoKungX).
 - Verwendete Schriftarten: [Font Awesome](https://fontawesome.com/), [Typed.js](https://github.com/mattboldt/typed.js/), [ScrollReveal](https://scrollrevealjs.org/).
 
 ## Lizenz
