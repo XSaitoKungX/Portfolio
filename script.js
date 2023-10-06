@@ -245,7 +245,7 @@ $(document).ready(function(){
 
     //typing animation script//
     var typed = new Typed(".typing",{
-        strings: ["Mark","Azubi","By", "Webnetz", "B-Dev (Web-Developer)"],
+        strings: ["Mark","aka XSaitoKungX","Backend-Dev", "and", "Frontend-Dev"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
